@@ -4,3 +4,4 @@ Here I perform the operations like Data cleaning using Power Query Editor and da
 Also perfomed using various types of charts, graphs, scorecards, etc, and drawn detailed sales insights.
 Had used power query editor, where I perfomed merge, and append queries, and also perfomed data modefying by creating relationships between tables like one-one,on-many,many-one,many-many.
 also perfomed DAX
+used goints
